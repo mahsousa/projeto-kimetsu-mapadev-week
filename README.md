@@ -1,4 +1,4 @@
-# projeto-kimetsu-mapadev-week
+# Projeto-kimetsu-mapadev-week
 
 ![kimetsu-no-yaiba](https://user-images.githubusercontent.com/32987989/172731326-2bd63775-fedf-46e7-bcab-9ceacbe4a979.jpg)
 
